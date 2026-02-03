@@ -17,7 +17,7 @@
     <br/>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 **🐱 My Github Data** 
 
@@ -60,16 +60,16 @@ Sunday       7 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-TypeScript               1 hr 7 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   1 hr 7 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-ocean-backend            1 hr 7 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 7 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -86,6 +86,6 @@ C#                       3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/02/2026
+ Last Updated on 03/02/2026
 <!--END_SECTION:waka-->
 </details>
