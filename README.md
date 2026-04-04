@@ -17,7 +17,7 @@
     <br/>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My Github Data** 
 
@@ -94,6 +94,6 @@ C#                       3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/04/2026
+ Last Updated on 04/04/2026
 <!--END_SECTION:waka-->
 </details>
