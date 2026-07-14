@@ -35,20 +35,20 @@
 
 ```text
 🌞 Morning    28 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.35% 
-🌆 Daytime    106 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.49% 
-🌃 Evening    285 commits    ███████████░░░░░░░░░░░░░░   44.32% 
-🌙 Night      224 commits    ████████░░░░░░░░░░░░░░░░░   34.84%
+🌆 Daytime    106 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.46% 
+🌃 Evening    286 commits    ███████████░░░░░░░░░░░░░░   44.41% 
+🌙 Night      224 commits    ████████░░░░░░░░░░░░░░░░░   34.78%
 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       77 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.98% 
-Tuesday      99 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.4% 
-Wednesday    182 commits    ███████░░░░░░░░░░░░░░░░░░   28.3% 
-Thursday     158 commits    ██████░░░░░░░░░░░░░░░░░░░   24.57% 
-Friday       82 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.75% 
-Saturday     27 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.2% 
+Monday       78 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.11% 
+Tuesday      99 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.37% 
+Wednesday    182 commits    ███████░░░░░░░░░░░░░░░░░░   28.26% 
+Thursday     158 commits    ██████░░░░░░░░░░░░░░░░░░░   24.53% 
+Friday       82 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.73% 
+Saturday     27 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.19% 
 Sunday       18 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.8%
 
 ```
@@ -60,16 +60,24 @@ Sunday       18 commits     ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 5 hrs 11 mins       █████████████░░░░░░░░░░░░   54.81% 
+JavaScript               1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.45% 
+Go                       1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   15.05% 
+TypeScript               55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.71% 
+Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.32%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              9 hrs 26 mins       █████████████████████████   99.79% 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+beepers-backend          6 hrs 47 mins       ██████████████████░░░░░░░   71.69% 
+chicho                   1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.38% 
+beepers-frontend         1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   10.67% 
+ocean-web                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      9 hrs 27 mins       █████████████████████████   100.0%
 
 ```
 
@@ -86,6 +94,6 @@ C#                       3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/07/2026
+ Last Updated on 14/07/2026
 <!--END_SECTION:waka-->
 </details>
