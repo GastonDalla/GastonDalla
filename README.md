@@ -17,7 +17,7 @@
     <br/>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My Github Data** 
 
@@ -60,24 +60,24 @@ Sunday       18 commits     ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-Markdown                 5 hrs 11 mins       █████████████░░░░░░░░░░░░   54.81% 
-JavaScript               1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.45% 
-Go                       1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   15.05% 
-TypeScript               55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.71% 
-Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.32%
+Markdown                 4 hrs 23 mins       █████████████░░░░░░░░░░░░   52.92% 
+JavaScript               1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   19.38% 
+Go                       1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.19% 
+TypeScript               55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.09% 
+Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.51%
 
 🔥 Editors: 
-Claude Code              9 hrs 26 mins       █████████████████████████   99.79% 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21%
+Claude Code              8 hrs 15 mins       █████████████████████████   99.76% 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24%
 
 🐱‍💻 Projects: 
-beepers-backend          6 hrs 47 mins       ██████████████████░░░░░░░   71.69% 
-chicho                   1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.38% 
-beepers-frontend         1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   10.67% 
-ocean-web                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25%
+beepers-backend          5 hrs 41 mins       █████████████████░░░░░░░░   68.8% 
+chicho                   1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   19.3% 
+beepers-frontend         57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.61% 
+ocean-web                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.29%
 
 💻 Operating System: 
-Mac                      9 hrs 27 mins       █████████████████████████   100.0%
+Mac                      8 hrs 16 mins       █████████████████████████   100.0%
 
 ```
 
@@ -94,6 +94,6 @@ C#                       3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/07/2026
+ Last Updated on 15/07/2026
 <!--END_SECTION:waka-->
 </details>
