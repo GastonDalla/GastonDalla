@@ -60,24 +60,22 @@ Sunday       18 commits     ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-JavaScript               1 hr 21 mins        ██████████░░░░░░░░░░░░░░░   41.53% 
-Markdown                 46 mins             ██████░░░░░░░░░░░░░░░░░░░   23.64% 
-TypeScript               39 mins             █████░░░░░░░░░░░░░░░░░░░░   20.08% 
-Go                       24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.18% 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.48%
+TypeScript               20 mins             ███████████████████░░░░░░   79.14% 
+JSON                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.65% 
+Markdown                 2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.42% 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.79%
 
 🔥 Editors: 
-Claude Code              3 hrs 15 mins       ████████████████████████░   99.4% 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.6%
+Claude Code              24 mins             ███████████████████████░░   95.49% 
+VS Code                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   4.51%
 
 🐱‍💻 Projects: 
-chicho                   1 hr 21 mins        ██████████░░░░░░░░░░░░░░░   41.29% 
-beepers-backend          1 hr 12 mins        █████████░░░░░░░░░░░░░░░░   36.91% 
-beepers-frontend         41 mins             █████░░░░░░░░░░░░░░░░░░░░   21.06% 
-ocean-web                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.73%
+beepers-frontend         22 mins             █████████████████████░░░░   86.05% 
+beepers-backend          2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.42% 
+ocean-web                1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   5.53%
 
 💻 Operating System: 
-Mac                      3 hrs 17 mins       █████████████████████████   100.0%
+Mac                      26 mins             █████████████████████████   100.0%
 
 ```
 
@@ -94,6 +92,6 @@ C#                       3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/07/2026
+ Last Updated on 18/07/2026
 <!--END_SECTION:waka-->
 </details>
