@@ -60,22 +60,17 @@ Sunday       18 commits     ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-TypeScript               20 mins             ███████████████████░░░░░░   79.14% 
-JSON                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.65% 
-Markdown                 2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.42% 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.79%
+TypeScript               1 min               █████████████████████████   100.0%
 
 🔥 Editors: 
-Claude Code              24 mins             ███████████████████████░░   95.49% 
-VS Code                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   4.51%
+VS Code                  1 min               ████████████████████░░░░░   81.55% 
+Claude Code              0 secs              ████░░░░░░░░░░░░░░░░░░░░░   18.45%
 
 🐱‍💻 Projects: 
-beepers-frontend         22 mins             █████████████████████░░░░   86.05% 
-beepers-backend          2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.42% 
-ocean-web                1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   5.53%
+ocean-web                1 min               █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      26 mins             █████████████████████████   100.0%
+Mac                      1 min               █████████████████████████   100.0%
 
 ```
 
@@ -92,6 +87,6 @@ C#                       3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/07/2026
+ Last Updated on 19/07/2026
 <!--END_SECTION:waka-->
 </details>
