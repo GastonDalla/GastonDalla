@@ -60,17 +60,16 @@ Sunday       18 commits     ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-TypeScript               1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 min               ████████████████████░░░░░   81.55% 
-Claude Code              0 secs              ████░░░░░░░░░░░░░░░░░░░░░   18.45%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-ocean-web                1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -87,6 +86,6 @@ C#                       3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/07/2026
+ Last Updated on 21/07/2026
 <!--END_SECTION:waka-->
 </details>
