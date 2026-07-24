@@ -17,7 +17,7 @@
     <br/>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My Github Data** 
 
@@ -34,21 +34,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    35 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.43% 
-🌆 Daytime    139 commits    █████░░░░░░░░░░░░░░░░░░░░   21.55% 
-🌃 Evening    277 commits    ██████████░░░░░░░░░░░░░░░   42.95% 
-🌙 Night      194 commits    ███████░░░░░░░░░░░░░░░░░░   30.08%
+🌞 Morning    29 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.5% 
+🌆 Daytime    145 commits    █████░░░░░░░░░░░░░░░░░░░░   22.48% 
+🌃 Evening    298 commits    ███████████░░░░░░░░░░░░░░   46.2% 
+🌙 Night      173 commits    ██████░░░░░░░░░░░░░░░░░░░   26.82%
 
 ```
-📅 **I'm Most Productive on Wednesday** 
+📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       78 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.09% 
-Tuesday      95 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.73% 
-Wednesday    182 commits    ███████░░░░░░░░░░░░░░░░░░   28.22% 
-Thursday     161 commits    ██████░░░░░░░░░░░░░░░░░░░   24.96% 
-Friday       84 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.02% 
-Saturday     27 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.19% 
+Monday       68 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.54% 
+Tuesday      79 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.25% 
+Wednesday    158 commits    ██████░░░░░░░░░░░░░░░░░░░   24.5% 
+Thursday     171 commits    ██████░░░░░░░░░░░░░░░░░░░   26.51% 
+Friday       122 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.91% 
+Saturday     29 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.5% 
 Sunday       18 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.79%
 
 ```
@@ -86,6 +86,6 @@ C#                       3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/07/2026
+ Last Updated on 24/07/2026
 <!--END_SECTION:waka-->
 </details>
