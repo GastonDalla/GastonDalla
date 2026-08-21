@@ -17,7 +17,7 @@
     <br/>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My Github Data** 
 
@@ -60,20 +60,22 @@ Sunday       18 commits     ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-TypeScript               2 hrs 16 mins       ████████████████████████░   96.04% 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.65% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.66% 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.65%
+TypeScript               2 hrs 54 mins       ███████████████████████░░   93.07% 
+JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.96% 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.0% 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.47% 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.49%
 
 🔥 Editors: 
-Claude Code              2 hrs 19 mins       ████████████████████████░   98.39% 
-VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.61%
+Claude Code              3 hrs 5 mins        ████████████████████████░   98.84% 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.16%
 
 🐱‍💻 Projects: 
-ocean-web                2 hrs 22 mins       █████████████████████████   100.0%
+ocean-web                3 hrs 5 mins        ████████████████████████░   98.53% 
+beepers-backend          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.47%
 
 💻 Operating System: 
-Mac                      2 hrs 22 mins       █████████████████████████   100.0%
+Mac                      3 hrs 7 mins        █████████████████████████   100.0%
 
 ```
 
@@ -90,6 +92,6 @@ C#                       3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/08/2026
+ Last Updated on 21/08/2026
 <!--END_SECTION:waka-->
 </details>
