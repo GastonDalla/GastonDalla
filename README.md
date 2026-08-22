@@ -60,22 +60,22 @@ Sunday       18 commits     ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-TypeScript               2 hrs 54 mins       ███████████████████████░░   93.07% 
-JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.96% 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.0% 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.47% 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.49%
+TypeScript               2 hrs 17 mins       ███████████████░░░░░░░░░░   63.48% 
+YAML                     32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.22% 
+Other                    17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.27% 
+Go                       10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.06% 
+SQL                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.24%
 
 🔥 Editors: 
-Claude Code              3 hrs 5 mins        ████████████████████████░   98.84% 
-VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.16%
+Claude Code              3 hrs 35 mins       ████████████████████████░   99.29% 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.71%
 
 🐱‍💻 Projects: 
-ocean-web                3 hrs 5 mins        ████████████████████████░   98.53% 
-beepers-backend          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.47%
+ocean-web                2 hrs 27 mins       █████████████████░░░░░░░░   68.21% 
+beepers-backend          1 hr 8 mins         ████████░░░░░░░░░░░░░░░░░   31.79%
 
 💻 Operating System: 
-Mac                      3 hrs 7 mins        █████████████████████████   100.0%
+Mac                      3 hrs 36 mins       █████████████████████████   100.0%
 
 ```
 
@@ -92,6 +92,6 @@ C#                       3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/08/2026
+ Last Updated on 22/08/2026
 <!--END_SECTION:waka-->
 </details>
