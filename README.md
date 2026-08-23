@@ -17,7 +17,7 @@
     <br/>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My Github Data** 
 
@@ -34,22 +34,22 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    29 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.48% 
-🌆 Daytime    145 commits    █████░░░░░░░░░░░░░░░░░░░░   22.38% 
-🌃 Evening    299 commits    ███████████░░░░░░░░░░░░░░   46.14% 
-🌙 Night      175 commits    ██████░░░░░░░░░░░░░░░░░░░   27.01%
+🌞 Morning    29 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.46% 
+🌆 Daytime    145 commits    █████░░░░░░░░░░░░░░░░░░░░   22.31% 
+🌃 Evening    301 commits    ███████████░░░░░░░░░░░░░░   46.31% 
+🌙 Night      175 commits    ██████░░░░░░░░░░░░░░░░░░░   26.92%
 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       68 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.49% 
-Tuesday      79 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.19% 
-Wednesday    159 commits    ██████░░░░░░░░░░░░░░░░░░░   24.54% 
-Thursday     173 commits    ██████░░░░░░░░░░░░░░░░░░░   26.7% 
-Friday       122 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.83% 
-Saturday     29 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.48% 
-Sunday       18 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.78%
+Monday       68 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.46% 
+Tuesday      79 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.15% 
+Wednesday    159 commits    ██████░░░░░░░░░░░░░░░░░░░   24.46% 
+Thursday     173 commits    ██████░░░░░░░░░░░░░░░░░░░   26.62% 
+Friday       122 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.77% 
+Saturday     31 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.77% 
+Sunday       18 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.77%
 
 ```
 
@@ -60,22 +60,22 @@ Sunday       18 commits     ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-TypeScript               2 hrs 17 mins       ███████████████░░░░░░░░░░   63.48% 
-YAML                     32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.22% 
-Other                    17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.27% 
-Go                       10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.06% 
-SQL                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.24%
+TypeScript               2 hrs 56 mins       ██████████████░░░░░░░░░░░   56.23% 
+JavaScript               42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.65% 
+YAML                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.52% 
+Other                    25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.05% 
+Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.13%
 
 🔥 Editors: 
-Claude Code              3 hrs 35 mins       ████████████████████████░   99.29% 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.71%
+Claude Code              4 hrs 56 mins       ███████████████████████░░   94.61% 
+VS Code                  16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.39%
 
 🐱‍💻 Projects: 
-ocean-web                2 hrs 27 mins       █████████████████░░░░░░░░   68.21% 
-beepers-backend          1 hr 8 mins         ████████░░░░░░░░░░░░░░░░░   31.79%
+ocean-web                3 hrs 55 mins       ██████████████████░░░░░░░   75.1% 
+beepers-backend          1 hr 18 mins        ██████░░░░░░░░░░░░░░░░░░░   24.9%
 
 💻 Operating System: 
-Mac                      3 hrs 36 mins       █████████████████████████   100.0%
+Mac                      5 hrs 13 mins       █████████████████████████   100.0%
 
 ```
 
@@ -92,6 +92,6 @@ C#                       3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/08/2026
+ Last Updated on 23/08/2026
 <!--END_SECTION:waka-->
 </details>
