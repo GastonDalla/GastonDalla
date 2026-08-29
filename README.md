@@ -34,9 +34,9 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    16 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.45% 
-🌆 Daytime    114 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.46% 
-🌃 Evening    332 commits    ████████████░░░░░░░░░░░░░   50.84% 
+🌞 Morning    34 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.21% 
+🌆 Daytime    106 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.23% 
+🌃 Evening    322 commits    ████████████░░░░░░░░░░░░░   49.31% 
 🌙 Night      191 commits    ███████░░░░░░░░░░░░░░░░░░   29.25%
 
 ```
@@ -46,9 +46,9 @@
 Monday       63 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.65% 
 Tuesday      106 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.23% 
 Wednesday    124 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.99% 
-Thursday     152 commits    █████░░░░░░░░░░░░░░░░░░░░   23.28% 
-Friday       159 commits    ██████░░░░░░░░░░░░░░░░░░░   24.35% 
-Saturday     31 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.75% 
+Thursday     142 commits    █████░░░░░░░░░░░░░░░░░░░░   21.75% 
+Friday       147 commits    █████░░░░░░░░░░░░░░░░░░░░   22.51% 
+Saturday     53 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.12% 
 Sunday       18 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.76%
 
 ```
@@ -60,24 +60,24 @@ Sunday       18 commits     ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-Go                       4 hrs 32 mins       ██████████░░░░░░░░░░░░░░░   41.01% 
-YAML                     1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.21% 
-TypeScript               1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.47% 
-Other                    44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.72% 
-SQL                      42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.44%
+Go                       4 hrs 20 mins       █████████████░░░░░░░░░░░░   52.94% 
+TypeScript               1 hr 49 mins        █████░░░░░░░░░░░░░░░░░░░░   22.23% 
+YAML                     59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.08% 
+JavaScript               37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.57% 
+Other                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.29%
 
 🔥 Editors: 
-Claude Code              10 hrs 18 mins      ███████████████████████░░   93.17% 
-VS Code                  40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.14% 
-Cursor                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.69%
+Claude Code              7 hrs 25 mins       ██████████████████████░░░   90.66% 
+VS Code                  41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.4% 
+Cursor                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.93%
 
 🐱‍💻 Projects: 
-beepers-backend          7 hrs 48 mins       █████████████████░░░░░░░░   70.6% 
-ocean-web                2 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   23.84% 
-beepers-frontend         36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
+beepers-backend          5 hrs 2 mins        ███████████████░░░░░░░░░░   61.48% 
+ocean-web                2 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   32.18% 
+beepers-frontend         31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.34%
 
 💻 Operating System: 
-Mac                      11 hrs 3 mins       █████████████████████████   100.0%
+Mac                      8 hrs 11 mins       █████████████████████████   100.0%
 
 ```
 
