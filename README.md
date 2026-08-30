@@ -60,24 +60,24 @@ Sunday       18 commits     ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-Go                       4 hrs 20 mins       █████████████░░░░░░░░░░░░   52.94% 
-TypeScript               1 hr 49 mins        █████░░░░░░░░░░░░░░░░░░░░   22.23% 
-YAML                     59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.08% 
-JavaScript               37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.57% 
-Other                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.29%
+Go                       4 hrs 20 mins       ████████████████░░░░░░░░░   67.08% 
+TypeScript               1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.44% 
+YAML                     59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.3% 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.01% 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16%
 
 🔥 Editors: 
-Claude Code              7 hrs 25 mins       ██████████████████████░░░   90.66% 
-VS Code                  41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.4% 
-Cursor                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.93%
+Claude Code              5 hrs 57 mins       ███████████████████████░░   92.13% 
+VS Code                  25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.69% 
+Cursor                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.18%
 
 🐱‍💻 Projects: 
-beepers-backend          5 hrs 2 mins        ███████████████░░░░░░░░░░   61.48% 
-ocean-web                2 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   32.18% 
-beepers-frontend         31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.34%
+beepers-backend          4 hrs 53 mins       ███████████████████░░░░░░   75.52% 
+ocean-web                1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.44% 
+beepers-frontend         31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.03%
 
 💻 Operating System: 
-Mac                      8 hrs 11 mins       █████████████████████████   100.0%
+Mac                      6 hrs 28 mins       █████████████████████████   100.0%
 
 ```
 
@@ -94,6 +94,6 @@ C#                       3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2026
+ Last Updated on 30/08/2026
 <!--END_SECTION:waka-->
 </details>
