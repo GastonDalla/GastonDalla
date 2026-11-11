@@ -27,6 +27,7 @@ An event ticketing platform for Argentina, on the web, iOS and Android. Fans buy
 
 | Project | Description |
 | --- | --- |
+| [Earmatch](https://earmatch.gastondalla.com) | A free macOS app for practising beatmatching by ear on rekordbox 7. It hides the visual aids DJs lean on, such as BPM decimals and stacked waveforms, and adds a CDJ-style phase meter, so they learn to mix by listening. |
 | [Dallateas](https://github.com/GastonDalla/Dallateas) · [live](https://vinyls.gastondalla.com) | A collection manager for vinyl DJs. Organize records into crates, plan sets, and find the next track that mixes in key at your pitch. |
 | [Dallacks](https://github.com/GastonDalla/Dallacks) · [live](https://dallacks.vercel.app) | A music discovery tool that finds tracks with a similar sound from a title or a Discogs, YouTube or SoundCloud link, with playback in the page. |
 | [DallaTrack](https://github.com/GastonDalla/dallatrack) · [live](https://dallatrack.vercel.app) | A fitness app with AI-generated workout plans, a training assistant and pose detection. |
